@@ -1,10 +1,8 @@
 /**
  * Created by zhangsha on 16-9-18.
  */
-const rule = {
-  '3': 'Fizz',
-  '5': 'Buzz',
-  '7': 'Whizz'
-};
+function getRule(){
+  return
+}
 
-module.exports = rule;
+module.exports = getRule;
