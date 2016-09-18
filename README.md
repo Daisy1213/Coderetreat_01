@@ -1,9 +1,9 @@
 #西安第一届Coderetreat活动
 
 ##题目需求：
-![](/home/zhangsha/Downloads/1300725517.jpg)
+![](images/1300725517.jpg)
 ##输出样例：
-![](/home/zhangsha/Downloads/999033129.jpg)
+![](images/999033129.jpg)
 
 ###基于TDD的开发思想编写代码
 1.编写测试代码  
